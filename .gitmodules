@@ -1,3 +1,0 @@
-[submodule "rcu_sw/task-interaction-diagrams"]
-	path = rcu_sw/task-interaction-diagrams
-	url = https://github.com/robertholm73/software_design
