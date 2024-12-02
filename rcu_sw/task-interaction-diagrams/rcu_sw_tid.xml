@@ -58,6 +58,9 @@
         <mxCell id="UEzPUAAOIrF-is8g5C7q-175" value="Task group: rcu_sw control" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_aws_cloud_alt;strokeColor=#232F3E;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#232F3E;dashed=0;labelBackgroundColor=#ffffff;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;" parent="1" vertex="1">
           <mxGeometry x="260" y="-1143.5" width="700" height="203.5" as="geometry" />
         </mxCell>
+        <mxCell id="r9rRcQ8iRQdkx96xORRm-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="UEzPUAAOIrF-is8g5C7q-175" source="6uFFX85QrKdOCd5ph4Qv-5" target="6uFFX85QrKdOCd5ph4Qv-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="6uFFX85QrKdOCd5ph4Qv-5" value="Supervisory&amp;nbsp;&lt;div&gt;Control Task&lt;/div&gt;" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_iot_greengrass;strokeColor=#7AA116;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#3F8624;dashed=0;" parent="UEzPUAAOIrF-is8g5C7q-175" vertex="1">
           <mxGeometry x="21" y="39.5" width="130" height="130" as="geometry" />
         </mxCell>
@@ -69,6 +72,9 @@
         </mxCell>
         <mxCell id="IzoFUXeWL32RikOkkDxz-27" value="CO TN2 (eg)&lt;div&gt;&lt;font color=&quot;#0066cc&quot;&gt;Safe Stop&lt;/font&gt;&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" parent="UEzPUAAOIrF-is8g5C7q-175" vertex="1">
           <mxGeometry x="162.5" y="107.5" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="r9rRcQ8iRQdkx96xORRm-6" value="SC TN1 (eg)&lt;div&gt;&lt;font color=&quot;#ff6666&quot;&gt;EMERGENCY&lt;/font&gt;&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="UEzPUAAOIrF-is8g5C7q-175">
+          <mxGeometry x="163" y="157.5" width="106.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6uFFX85QrKdOCd5ph4Qv-4" value="FreeRTOS&lt;div&gt;Control Task&lt;/div&gt;" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_iot_greengrass;strokeColor=#7AA116;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#3F8624;dashed=0;" parent="1" vertex="1">
           <mxGeometry x="1270" y="-740" width="130" height="130" as="geometry" />
@@ -155,13 +161,13 @@
           <mxGeometry x="94" y="-670" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Zyk3eGL-KPXLRvuC-kTH-39" value="&lt;div&gt;UARTUI Q1&lt;/div&gt;&lt;div&gt;(drive command)&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" parent="1" vertex="1">
-          <mxGeometry x="60" y="-1030" width="80" height="30" as="geometry" />
+          <mxGeometry x="17" y="-1030" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Zyk3eGL-KPXLRvuC-kTH-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Zyk3eGL-KPXLRvuC-kTH-23" target="6uFFX85QrKdOCd5ph4Qv-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Zyk3eGL-KPXLRvuC-kTH-41" value="&lt;div&gt;TCPUI Q1&lt;/div&gt;&lt;div&gt;(drive command)&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" parent="1" vertex="1">
-          <mxGeometry x="90" y="-920" width="80" height="30" as="geometry" />
+          <mxGeometry x="73" y="-1030" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Zyk3eGL-KPXLRvuC-kTH-2" value="CAN TN3 (mb) (n_&lt;span style=&quot;background-color: initial;&quot;&gt;payload)&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" parent="1" vertex="1">
           <mxGeometry x="677" y="-900" width="90" height="30" as="geometry" />
@@ -194,7 +200,7 @@
           <mxGeometry x="260" y="-680" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XnOFw1Xpx_WXFT_SU9Ly-10" value="SC EG2&amp;nbsp; (RCU status&lt;span style=&quot;background-color: initial;&quot;&gt;)&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" parent="1" vertex="1">
-          <mxGeometry x="312" y="-676" width="90" height="30" as="geometry" />
+          <mxGeometry x="315" y="-683" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XnOFw1Xpx_WXFT_SU9Ly-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="6uFFX85QrKdOCd5ph4Qv-5" target="XnOFw1Xpx_WXFT_SU9Ly-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -247,18 +253,20 @@
           <mxGeometry x="557" y="-550" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="IzoFUXeWL32RikOkkDxz-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="6uFFX85QrKdOCd5ph4Qv-13" target="6uFFX85QrKdOCd5ph4Qv-5" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="578" y="-1000" />
+              <mxPoint x="411" y="-1000" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="IzoFUXeWL32RikOkkDxz-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" parent="1" source="6uFFX85QrKdOCd5ph4Qv-13" target="6uFFX85QrKdOCd5ph4Qv-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IzoFUXeWL32RikOkkDxz-9" value="CAN TN1 (mb) (n_&lt;span style=&quot;background-color: initial;&quot;&gt;payload)&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" parent="1" vertex="1">
-          <mxGeometry x="510" y="-950" width="90" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="IzoFUXeWL32RikOkkDxz-28" value="TCP UI TN2 (eg)&lt;div&gt;&lt;font color=&quot;#0066cc&quot;&gt;Safe Stop&lt;/font&gt;&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" parent="1" vertex="1">
+        <mxCell id="IzoFUXeWL32RikOkkDxz-28" value="TCPUI TN2 (eg)&lt;div&gt;&lt;font color=&quot;#0066cc&quot;&gt;Safe Stop&lt;/font&gt;&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" parent="1" vertex="1">
           <mxGeometry x="440" y="-352" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="IzoFUXeWL32RikOkkDxz-29" value="TCP UI TN1 (eg)&lt;div&gt;&lt;font color=&quot;#ff6666&quot;&gt;EMERGENCY&lt;/font&gt;&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" parent="1" vertex="1">
+        <mxCell id="IzoFUXeWL32RikOkkDxz-29" value="TCPUI TN1 (eg)&lt;div&gt;&lt;font color=&quot;#ff6666&quot;&gt;EMERGENCY&lt;/font&gt;&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" parent="1" vertex="1">
           <mxGeometry x="446.5" y="-404" width="106.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="IzoFUXeWL32RikOkkDxz-31" value="Supervisory control Task" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_iot_greengrass;strokeColor=#7AA116;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#3F8624;dashed=0;" parent="1" vertex="1">
