@@ -136,7 +136,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Zyk3eGL-KPXLRvuC-kTH-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.015;entryY=0.4;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="Zyk3eGL-KPXLRvuC-kTH-23" target="6uFFX85QrKdOCd5ph4Qv-13" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="190" y="-750" />
+              <mxPoint x="385" y="-750" />
+              <mxPoint x="385" y="-768" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="Zyk3eGL-KPXLRvuC-kTH-33" value="SC Q1 (KM command&lt;span style=&quot;background-color: initial;&quot;&gt;)&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" parent="1" vertex="1">
           <mxGeometry x="130" y="-860" width="90" height="30" as="geometry" />
@@ -229,7 +235,7 @@
           <mxGeometry x="260" y="-490" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="IzoFUXeWL32RikOkkDxz-13" value="CAN TN (eg)&lt;div&gt;&lt;font color=&quot;#ff6666&quot;&gt;EMERGENCY&lt;/font&gt;&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="797" y="-1120" width="83" height="30" as="geometry" />
+          <mxGeometry x="786" y="-1114" width="83" height="30" as="geometry" />
         </mxCell>
         <mxCell id="IzoFUXeWL32RikOkkDxz-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="6uFFX85QrKdOCd5ph4Qv-13" target="6uFFX85QrKdOCd5ph4Qv-5">
           <mxGeometry relative="1" as="geometry" />
