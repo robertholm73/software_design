@@ -347,7 +347,10 @@
         <mxCell id="r9rRcQ8iRQdkx96xORRm-38" value="SC Q3 (RCU error data)" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" vertex="1" parent="1">
           <mxGeometry x="757" y="-370" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="r9rRcQ8iRQdkx96xORRm-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Z3XYwV8bthwm2bylAlYH-18" target="Z3XYwV8bthwm2bylAlYH-11">
+        <mxCell id="r9rRcQ8iRQdkx96xORRm-41" value="EL Q1 (RCU error data)" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="991" y="-388" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="r9rRcQ8iRQdkx96xORRm-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Z3XYwV8bthwm2bylAlYH-18" target="Z3XYwV8bthwm2bylAlYH-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
