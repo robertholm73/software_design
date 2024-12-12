@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3">
   <diagram name="Page-1" id="gYPdV5KYoYjTxZCbX4Au">
-    <mxGraphModel dx="3088" dy="1907" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3341" dy="2037" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -20,7 +20,7 @@
           <mxGeometry x="-290" y="505" width="50" height="160" as="geometry" />
         </mxCell>
         <mxCell id="LSzqvkUK99cfRbp6Mw0R-85" value="&lt;div&gt;&lt;font color=&quot;#f8cecc&quot;&gt;BLK&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#ea6b66&quot;&gt;ERROR&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(0, 204, 0);&quot;&gt;RUNNING/ALL GOOD&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#495411&quot;&gt;WARNING&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#3399ff&quot;&gt;NORMAL TEXT&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#ff33ff&quot;&gt;HEADINGS&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font color=&quot;#004c99&quot;&gt;SUBHEADINGS&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;FRAMES&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=default;fontFamily=Lucida Console;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="-250" y="505" width="160" height="160" as="geometry" />
+          <mxGeometry x="-190" y="520" width="160" height="160" as="geometry" />
         </mxCell>
         <mxCell id="oLKlljd090616Nfrw5Nb-1" value="" style="swimlane;startSize=0;fontFamily=Lucida Console;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="20" width="1117" height="720" as="geometry" />
@@ -41,16 +41,19 @@
           <mxGeometry x="-10" width="1120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ye5tNXJEMpcOtLvbYLi2-1" value="&#xa;" style="swimlane;startSize=0;fontFamily=Lucida Console;fontSize=14;" vertex="1" parent="oLKlljd090616Nfrw5Nb-1">
-          <mxGeometry x="810" y="618.5" width="306" height="101" as="geometry" />
+          <mxGeometry x="811" y="618.5" width="306" height="101" as="geometry" />
         </mxCell>
-        <mxCell id="USdj_I0CaCp1iJVfZblM-37" value="&#xa;" style="swimlane;startSize=0;fontFamily=Lucida Console;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="310" y="850" width="300" height="101" as="geometry" />
+        <mxCell id="USdj_I0CaCp1iJVfZblM-37" value="&#xa;" style="swimlane;startSize=0;fontFamily=Lucida Console;fontSize=14;" parent="oLKlljd090616Nfrw5Nb-1" vertex="1">
+          <mxGeometry x="330" y="240" width="300" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="USdj_I0CaCp1iJVfZblM-39" value="&lt;div&gt;&lt;font color=&quot;#3399ff&quot;&gt;TODO...&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=default;fontFamily=Lucida Console;fontSize=14;" parent="USdj_I0CaCp1iJVfZblM-37" vertex="1">
-          <mxGeometry x="20" y="50" width="80" height="30" as="geometry" />
+        <mxCell id="USdj_I0CaCp1iJVfZblM-40" value="&lt;span style=&quot;color: rgb(51, 153, 255);&quot;&gt;[P]assword&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=default;fontFamily=Lucida Console;fontSize=14;" parent="USdj_I0CaCp1iJVfZblM-37" vertex="1">
+          <mxGeometry x="70" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="USdj_I0CaCp1iJVfZblM-40" value="&lt;span style=&quot;color: rgb(255, 51, 255);&quot;&gt;&lt;b&gt;[5] Profiles&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=default;fontFamily=Lucida Console;fontSize=14;" parent="USdj_I0CaCp1iJVfZblM-37" vertex="1">
-          <mxGeometry x="70" width="130" height="30" as="geometry" />
+        <mxCell id="ye5tNXJEMpcOtLvbYLi2-4" value="&#xa;" style="swimlane;startSize=0;fontFamily=Lucida Console;fontSize=14;" vertex="1" parent="oLKlljd090616Nfrw5Nb-1">
+          <mxGeometry x="819" y="550" width="300" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ye5tNXJEMpcOtLvbYLi2-5" value="&lt;span style=&quot;color: rgb(51, 153, 255);&quot;&gt;[P]assword&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=default;fontFamily=Lucida Console;fontSize=14;" vertex="1" parent="ye5tNXJEMpcOtLvbYLi2-4">
+          <mxGeometry x="70" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
