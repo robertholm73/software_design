@@ -17,16 +17,16 @@
           <mxGeometry x="10" y="-19" width="24" height="240" as="geometry" />
         </mxCell>
         <mxCell id="LSzqvkUK99cfRbp6Mw0R-84" value="&lt;div&gt;&lt;font color=&quot;#f8cecc&quot;&gt;BLK&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#ea6b66&quot;&gt;RED&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(0, 204, 0);&quot;&gt;GRN&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#495411&quot;&gt;YEL&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#3399ff&quot;&gt;BLU&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#ff33ff&quot;&gt;MAG&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#004c99&quot;&gt;CYN&lt;/font&gt;&lt;/div&gt;&lt;div&gt;WHT&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=default;fontFamily=Lucida Console;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="-290" y="505" width="50" height="160" as="geometry" />
+          <mxGeometry x="-250" y="520" width="50" height="160" as="geometry" />
         </mxCell>
         <mxCell id="LSzqvkUK99cfRbp6Mw0R-85" value="&lt;div&gt;&lt;font color=&quot;#f8cecc&quot;&gt;BLK&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#ea6b66&quot;&gt;ERROR&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(0, 204, 0);&quot;&gt;RUNNING/ALL GOOD&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#495411&quot;&gt;WARNING&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#3399ff&quot;&gt;NORMAL TEXT&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#ff33ff&quot;&gt;HEADINGS&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font color=&quot;#004c99&quot;&gt;SUBHEADINGS&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;FRAMES&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=default;fontFamily=Lucida Console;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="-190" y="520" width="160" height="160" as="geometry" />
         </mxCell>
         <mxCell id="oLKlljd090616Nfrw5Nb-1" value="" style="swimlane;startSize=0;fontFamily=Lucida Console;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="20" y="-1" width="1130" height="720" as="geometry" />
+          <mxGeometry x="20" y="-1" width="1110" height="720" as="geometry" />
         </mxCell>
-        <mxCell id="oLKlljd090616Nfrw5Nb-9" value="&lt;font color=&quot;#3399ff&quot;&gt;&lt;b&gt;M-TEK&lt;/b&gt;&amp;nbsp; &amp;nbsp;&lt;/font&gt;&lt;font color=&quot;#ff33ff&quot;&gt;&lt;b&gt;Radar Rotator Sub-System&amp;nbsp; &amp;nbsp;&lt;/b&gt;&lt;/font&gt;2024-12-01&amp;nbsp; &amp;nbsp;00:00:00&amp;nbsp; &amp;nbsp;R&amp;nbsp; &amp;nbsp;âšª&amp;nbsp; &amp;nbsp;30.0 rpm&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; í ½í±¤&amp;nbsp; &amp;nbsp;&lt;span style=&quot;color: rgb(0, 204, 0);&quot;&gt;âœ”&amp;nbsp; &amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;UART&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=default;labelBackgroundColor=none;fontFamily=Lucida Console;fontSize=14;" parent="oLKlljd090616Nfrw5Nb-1" vertex="1">
-          <mxGeometry y="4" width="1130" height="30" as="geometry" />
+        <mxCell id="oLKlljd090616Nfrw5Nb-9" value="&lt;font color=&quot;#3399ff&quot;&gt;&lt;b&gt;M-TEK&lt;/b&gt;&amp;nbsp; &amp;nbsp;&lt;/font&gt;&lt;font color=&quot;#ff33ff&quot;&gt;&lt;b&gt;Radar Rotator Sub-System&amp;nbsp; &amp;nbsp;&lt;/b&gt;&lt;/font&gt;2024-12-01&amp;nbsp; &amp;nbsp;00:00:00&amp;nbsp; &amp;nbsp;R&amp;nbsp; &amp;nbsp;âšª&amp;nbsp; &amp;nbsp;30.0 rpm&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;span style=&quot;color: rgb(0, 204, 0);&quot;&gt;âœ”&amp;nbsp; &amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;UART&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=default;labelBackgroundColor=none;fontFamily=Lucida Console;fontSize=14;" parent="oLKlljd090616Nfrw5Nb-1" vertex="1">
+          <mxGeometry y="4" width="1070" height="30" as="geometry" />
         </mxCell>
         <mxCell id="oLKlljd090616Nfrw5Nb-10" value="&lt;font color=&quot;#3399ff&quot;&gt;Message line:...&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=default;fontFamily=Lucida Console;fontSize=14;" parent="oLKlljd090616Nfrw5Nb-1" vertex="1">
           <mxGeometry y="30" width="160" height="30" as="geometry" />
@@ -46,17 +46,17 @@
         <mxCell id="ye5tNXJEMpcOtLvbYLi2-1" value="&#xa;" style="swimlane;startSize=0;fontFamily=Lucida Console;fontSize=14;" parent="ye5tNXJEMpcOtLvbYLi2-18" vertex="1">
           <mxGeometry y="1.5" width="306" height="101" as="geometry" />
         </mxCell>
-        <mxCell id="USdj_I0CaCp1iJVfZblM-37" value="&#xa;" style="swimlane;startSize=0;fontFamily=Lucida Console;fontSize=14;" parent="oLKlljd090616Nfrw5Nb-1" vertex="1">
-          <mxGeometry x="13" y="663" width="350" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="USdj_I0CaCp1iJVfZblM-40" value="&lt;span style=&quot;color: rgb(51, 153, 255);&quot;&gt;&amp;nbsp; &amp;nbsp;[P]assword:&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=default;fontFamily=Lucida Console;fontSize=14;" parent="USdj_I0CaCp1iJVfZblM-37" vertex="1">
-          <mxGeometry y="3" width="140" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="ittD8aQFB4zh-7gGsS9k-11" value="&#xa;" style="swimlane;startSize=0;fontFamily=Lucida Console;fontSize=14;" parent="oLKlljd090616Nfrw5Nb-1" vertex="1">
           <mxGeometry x="13" y="77" width="270" height="63" as="geometry" />
         </mxCell>
         <mxCell id="ittD8aQFB4zh-7gGsS9k-12" value="&lt;b style=&quot;color: rgb(255, 51, 255);&quot;&gt;&lt;font&gt;[L]egend&amp;nbsp;&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=default;fontFamily=Lucida Console;fontSize=14;" parent="ittD8aQFB4zh-7gGsS9k-11" vertex="1">
           <mxGeometry x="5" y="10" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-QGCXeUMsijj5U7pyysX-1" value="&#xa;" style="swimlane;startSize=0;fontFamily=Lucida Console;fontSize=14;" vertex="1" parent="oLKlljd090616Nfrw5Nb-1">
+          <mxGeometry x="13" y="651" width="407" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="-QGCXeUMsijj5U7pyysX-2" value="&lt;span style=&quot;color: rgb(51, 153, 255);&quot;&gt;Lo[G]in / out&amp;nbsp; &amp;nbsp;|&amp;nbsp; &amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: rgb(51, 153, 255); background-color: initial;&quot;&gt;Password:&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=default;fontFamily=Lucida Console;fontSize=14;" vertex="1" parent="-QGCXeUMsijj5U7pyysX-1">
+          <mxGeometry y="16" width="270" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
