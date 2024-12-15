@@ -5,22 +5,22 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="oLKlljd090616Nfrw5Nb-1" value="" style="swimlane;startSize=0;fontFamily=Lucida Console;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="20" y="-1" width="1130" height="720" as="geometry" />
+          <mxGeometry x="20" y="-1" width="1110" height="720" as="geometry" />
         </mxCell>
         <mxCell id="oLKlljd090616Nfrw5Nb-10" value="&lt;font color=&quot;#3399ff&quot;&gt;Messages:&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=default;fontFamily=Lucida Console;fontSize=14;" parent="oLKlljd090616Nfrw5Nb-1" vertex="1">
-          <mxGeometry y="30" width="100" height="30" as="geometry" />
+          <mxGeometry x="4" y="30" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="USdj_I0CaCp1iJVfZblM-9" value="&#xa;" style="swimlane;startSize=0;fontFamily=Lucida Console;fontSize=14;" parent="oLKlljd090616Nfrw5Nb-1" vertex="1">
-          <mxGeometry x="-10" y="34" width="1140" height="30" as="geometry" />
+          <mxGeometry x="-10" y="34" width="1120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="USdj_I0CaCp1iJVfZblM-36" value="&#xa;" style="swimlane;startSize=0;fontFamily=Lucida Console;fontSize=14;" parent="oLKlljd090616Nfrw5Nb-1" vertex="1">
-          <mxGeometry x="-10" y="2" width="1139" height="31" as="geometry" />
+          <mxGeometry x="-10" y="2" width="1120" height="31" as="geometry" />
         </mxCell>
-        <mxCell id="Z68zwZY6FCFIj2CUWOuO-1" value="&lt;font color=&quot;#3399ff&quot;&gt;&lt;b&gt;M-TEK&lt;/b&gt;&amp;nbsp; &amp;nbsp;&lt;/font&gt;&lt;font color=&quot;#ff33ff&quot;&gt;&lt;b&gt;Radar Rotator Sub-System&amp;nbsp; &amp;nbsp;&lt;/b&gt;&lt;/font&gt;2024-12-01&amp;nbsp; &amp;nbsp;00:00:00&amp;nbsp; &amp;nbsp; ω&amp;nbsp;&amp;nbsp; &amp;nbsp;⚪&amp;nbsp; &amp;nbsp;30.0 rpm&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;font color=&quot;#00cc00&quot;&gt;✔&amp;nbsp; &amp;nbsp;&lt;/font&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;☑&amp;nbsp; &amp;nbsp;UART&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=default;labelBackgroundColor=none;fontFamily=Lucida Console;fontSize=14;" parent="USdj_I0CaCp1iJVfZblM-36" vertex="1">
-          <mxGeometry x="-1" y="1" width="1140" height="30" as="geometry" />
+        <mxCell id="Z68zwZY6FCFIj2CUWOuO-1" value="&lt;font color=&quot;#3399ff&quot;&gt;&lt;b&gt;M-TEK&lt;/b&gt;&amp;nbsp; &amp;nbsp;&lt;/font&gt;&lt;font color=&quot;#ff33ff&quot;&gt;&lt;b&gt;Radar Rotator Sub-System&amp;nbsp; &amp;nbsp;&lt;/b&gt;&lt;/font&gt;2024-12-01&amp;nbsp; &amp;nbsp;00:00:00&amp;nbsp; &amp;nbsp; ω&amp;nbsp;&amp;nbsp; &amp;nbsp;⚪&amp;nbsp; &amp;nbsp;30.0 rpm&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;font color=&quot;#00cc00&quot;&gt;✔&amp;nbsp; &amp;nbsp;&lt;/font&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;☑&amp;nbsp; &amp;nbsp;UART&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=default;labelBackgroundColor=none;fontFamily=Lucida Console;fontSize=14;" parent="USdj_I0CaCp1iJVfZblM-36" vertex="1">
+          <mxGeometry x="11" y="1" width="1120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ye5tNXJEMpcOtLvbYLi2-18" value="" style="group" parent="oLKlljd090616Nfrw5Nb-1" vertex="1" connectable="0">
-          <mxGeometry x="826" y="617" width="306" height="110" as="geometry" />
+          <mxGeometry x="824" y="617" width="306" height="110" as="geometry" />
         </mxCell>
         <mxCell id="Y0vUoYvXCPpR4QLky-6E-8" value="&lt;div&gt;&lt;font color=&quot;#3399ff&quot;&gt;____&amp;nbsp; ____&amp;nbsp; ____ ____&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#3399ff&quot;&gt;| _ \ | _ \ / ___ / ___|&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#3399ff&quot;&gt;| |_) | |_) \___ \___ \&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#3399ff&quot;&gt;| _ &amp;lt; | _ &amp;lt; ___) | __) |&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#3399ff&quot;&gt;&amp;nbsp; &amp;nbsp; |_ | \_\_ | \_\____ / ____ /&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=default;fontFamily=Lucida Console;fontSize=14;" parent="ye5tNXJEMpcOtLvbYLi2-18" vertex="1">
           <mxGeometry x="13" width="290" height="110" as="geometry" />
@@ -29,7 +29,7 @@
           <mxGeometry y="1.5" width="306" height="101" as="geometry" />
         </mxCell>
         <mxCell id="ittD8aQFB4zh-7gGsS9k-11" value="&#xa;" style="swimlane;startSize=0;fontFamily=Lucida Console;fontSize=14;" parent="oLKlljd090616Nfrw5Nb-1" vertex="1">
-          <mxGeometry y="64" width="413" height="39" as="geometry" />
+          <mxGeometry y="64" width="100" height="39" as="geometry" />
         </mxCell>
         <mxCell id="ittD8aQFB4zh-7gGsS9k-12" value="&lt;b style=&quot;color: rgb(255, 51, 255);&quot;&gt;&lt;font&gt;[L]egend&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=default;fontFamily=Lucida Console;fontSize=14;" parent="oLKlljd090616Nfrw5Nb-1" vertex="1">
           <mxGeometry x="6" y="71" width="90" height="30" as="geometry" />
