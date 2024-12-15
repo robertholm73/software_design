@@ -49,14 +49,14 @@
         <mxCell id="USdj_I0CaCp1iJVfZblM-37" value="&#xa;" style="swimlane;startSize=0;fontFamily=Lucida Console;fontSize=14;" parent="oLKlljd090616Nfrw5Nb-1" vertex="1">
           <mxGeometry x="13" y="663" width="350" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="USdj_I0CaCp1iJVfZblM-40" value="&lt;span style=&quot;color: rgb(51, 153, 255);&quot;&gt;&amp;nbsp; &amp;nbsp; [P]assword&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=default;fontFamily=Lucida Console;fontSize=14;" parent="USdj_I0CaCp1iJVfZblM-37" vertex="1">
-          <mxGeometry y="3" width="140" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="ittD8aQFB4zh-7gGsS9k-7" value="&lt;b style=&quot;color: rgb(255, 51, 255);&quot;&gt;[L]egend&amp;nbsp;&lt;/b&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;M:&amp;nbsp; R rate&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; θ position&lt;/div&gt;&lt;div&gt;&amp;nbsp;&lt;font color=&quot;#ff33ff&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;div&gt;CM: ⚪ open-loop&amp;nbsp;&lt;b style=&quot;color: rgb(255, 51, 255);&quot;&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-family: Helvetica; font-size: 12px; text-wrap-mode: wrap;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; ⚫&amp;nbsp; closed-loop&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=default;fontFamily=Lucida Console;fontSize=14;" vertex="1" parent="oLKlljd090616Nfrw5Nb-1">
-          <mxGeometry x="20" y="39" width="170" height="150" as="geometry" />
+        <mxCell id="USdj_I0CaCp1iJVfZblM-40" value="&lt;span style=&quot;color: rgb(51, 153, 255);&quot;&gt;&amp;nbsp; &amp;nbsp;[P]assword&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=default;fontFamily=Lucida Console;fontSize=14;" parent="USdj_I0CaCp1iJVfZblM-37" vertex="1">
+          <mxGeometry y="3" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ittD8aQFB4zh-7gGsS9k-8" value="&#xa;" style="swimlane;startSize=0;fontFamily=Lucida Console;fontSize=14;" vertex="1" parent="oLKlljd090616Nfrw5Nb-1">
-          <mxGeometry x="10" y="80" width="240" height="110" as="geometry" />
+          <mxGeometry x="40" y="160" width="270" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="ittD8aQFB4zh-7gGsS9k-7" value="&lt;b style=&quot;color: rgb(255, 51, 255);&quot;&gt;&lt;font&gt;[L]egend&amp;nbsp;&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;font&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;Mode:&amp;nbsp; R&amp;nbsp; &amp;nbsp;rate&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;θ&amp;nbsp; &amp;nbsp;position&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;&amp;nbsp;&lt;font color=&quot;#ff33ff&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/font&gt;&lt;div&gt;&lt;font&gt;Control mode: ⚪&amp;nbsp; open-loop&amp;nbsp;&lt;b style=&quot;color: rgb(255, 51, 255);&quot;&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-family: Helvetica; text-wrap-mode: wrap;&quot;&gt;&lt;font&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;⚫&amp;nbsp; &amp;nbsp; closed-loop&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=default;fontFamily=Lucida Console;fontSize=14;" vertex="1" parent="ittD8aQFB4zh-7gGsS9k-8">
+          <mxGeometry x="10" y="20" width="260" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
