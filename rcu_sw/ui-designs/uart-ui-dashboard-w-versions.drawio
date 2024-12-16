@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="oLKlljd090616Nfrw5Nb-1" value="" style="swimlane;startSize=0;fontFamily=Lucida Console;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="20" y="-30" width="1267.5" height="750" as="geometry" />
+          <mxGeometry x="20" y="-30" width="1110" height="750" as="geometry" />
         </mxCell>
         <mxCell id="oLKlljd090616Nfrw5Nb-10" value="&lt;font color=&quot;#3399ff&quot;&gt;Messages:&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=default;fontFamily=Lucida Console;fontSize=14;" parent="oLKlljd090616Nfrw5Nb-1" vertex="1">
           <mxGeometry x="4" y="34" width="100" height="30" as="geometry" />
@@ -49,7 +49,7 @@
         <mxCell id="MxH4DdZBS--YE_dJc5Tn-15" value="&lt;b style=&quot;color: rgb(255, 51, 255);&quot;&gt;&lt;font&gt;[M]enus&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=default;fontFamily=Lucida Console;fontSize=14;" parent="MxH4DdZBS--YE_dJc5Tn-14" vertex="1">
           <mxGeometry x="6" y="7" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="OXoUW_zSc9wM3WiDLsjb-1" value="" style="group" vertex="1" connectable="0" parent="oLKlljd090616Nfrw5Nb-1">
+        <mxCell id="OXoUW_zSc9wM3WiDLsjb-1" value="" style="group" parent="oLKlljd090616Nfrw5Nb-1" vertex="1" connectable="0">
           <mxGeometry x="137" y="104" width="402.5" height="283.5" as="geometry" />
         </mxCell>
         <mxCell id="1fti2fci_lNK2ZTSS0F3-3" value="&lt;div&gt;&lt;span style=&quot;color: rgb(0, 76, 153); background-color: initial;&quot;&gt;Bootloaders&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;MTEK_NR_SIU_BOOTLOADER&amp;nbsp; &amp;nbsp;&quot;FB000-004000-62&quot;&amp;nbsp;&lt;/div&gt;&lt;div&gt;VERSION_SIU_BOOTLOADER&amp;nbsp; &amp;nbsp;&quot;1.0_A&quot;&lt;/div&gt;&lt;div&gt;DATE_SIU_BOOTLOADER&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;2024-03-25&quot;&lt;/div&gt;&lt;div&gt;STATUS_SIU_BOOTLOADER&amp;nbsp; &amp;nbsp; &quot;Curent&quot;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;MTEK_NR_RCU_BOOTLOADER&amp;nbsp; &amp;nbsp;&quot;FB000-005000-62&quot;&lt;/div&gt;&lt;div&gt;VERSION_RCU_BOOTLOADER&amp;nbsp; &amp;nbsp;&quot;1.0_A&quot;&lt;/div&gt;&lt;div&gt;DATE_RCU_BOOTLOADER&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;2024-03-26&quot;&lt;/div&gt;&lt;div&gt;STATUS_RCU_BOOTLOADER&amp;nbsp; &amp;nbsp; &quot;Current&quot;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;MTEK_NR_RBD_BOOTLOADER&amp;nbsp; &amp;nbsp;&quot;FB000-006000-62&quot;&lt;/div&gt;&lt;div&gt;VERSION_RBD_BOOTLOADER&amp;nbsp; &amp;nbsp;&quot;1.0_A&quot;&lt;/div&gt;&lt;div&gt;DATE_RBD_BOOTLOADER&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;2024-03-22&quot;&lt;/div&gt;&lt;div&gt;STATUS_RBD_BOOTLOADER&amp;nbsp; &amp;nbsp; &quot;Current&quot;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=default;fontFamily=Lucida Console;fontSize=14;" parent="OXoUW_zSc9wM3WiDLsjb-1" vertex="1">
@@ -58,10 +58,10 @@
         <mxCell id="dcQEZeXJA_HNM_7KDWvD-14" value="&#xa;" style="swimlane;startSize=0;fontFamily=Lucida Console;fontSize=14;" parent="OXoUW_zSc9wM3WiDLsjb-1" vertex="1">
           <mxGeometry width="402.5" height="283.5" as="geometry" />
         </mxCell>
-        <mxCell id="OXoUW_zSc9wM3WiDLsjb-2" value="&lt;font&gt;01234567890123456789012345678901234567890123456&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=default;fontFamily=Lucida Console;fontSize=14;" vertex="1" parent="oLKlljd090616Nfrw5Nb-1">
+        <mxCell id="OXoUW_zSc9wM3WiDLsjb-2" value="&lt;font&gt;01234567890123456789012345678901234567890123456&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=default;fontFamily=Lucida Console;fontSize=14;" parent="oLKlljd090616Nfrw5Nb-1" vertex="1">
           <mxGeometry x="117.5" y="69" width="420" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="OXoUW_zSc9wM3WiDLsjb-3" value="&lt;font&gt;01234567890123456789012345678901234567890123456&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=default;fontFamily=Lucida Console;fontSize=14;" vertex="1" parent="oLKlljd090616Nfrw5Nb-1">
+        <mxCell id="OXoUW_zSc9wM3WiDLsjb-3" value="&lt;font&gt;01234567890123456789012345678901234567890123456&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=default;fontFamily=Lucida Console;fontSize=14;" parent="oLKlljd090616Nfrw5Nb-1" vertex="1">
           <mxGeometry x="586" y="70" width="420" height="30" as="geometry" />
         </mxCell>
         <mxCell id="moqp2IegP8KUJv4X4wNY-3" value="&#xa;" style="swimlane;startSize=0;fontFamily=Lucida Console;fontSize=14;" parent="oLKlljd090616Nfrw5Nb-1" vertex="1">
