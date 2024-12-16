@@ -50,13 +50,13 @@
           <mxGeometry x="1020" y="64" width="90" height="36" as="geometry" />
         </mxCell>
         <mxCell id="E-7C91kOw7d5Ax8kFymq-1" value="&#xa;" style="swimlane;startSize=0;fontFamily=Lucida Console;fontSize=14;" vertex="1" parent="oLKlljd090616Nfrw5Nb-1">
-          <mxGeometry x="4" y="64" width="106" height="36" as="geometry" />
+          <mxGeometry y="64" width="140" height="240" as="geometry" />
         </mxCell>
         <mxCell id="E-7C91kOw7d5Ax8kFymq-2" value="" style="group" vertex="1" connectable="0" parent="E-7C91kOw7d5Ax8kFymq-1">
-          <mxGeometry x="-8" y="-2" width="116" height="39" as="geometry" />
+          <mxGeometry x="-2" y="95" width="136" height="137" as="geometry" />
         </mxCell>
-        <mxCell id="E-7C91kOw7d5Ax8kFymq-3" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font color=&quot;#004c99&quot;&gt;Main menu&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=default;fontFamily=Lucida Console;fontSize=14;" vertex="1" parent="E-7C91kOw7d5Ax8kFymq-2">
-          <mxGeometry x="6" y="7" width="100" height="30" as="geometry" />
+        <mxCell id="E-7C91kOw7d5Ax8kFymq-3" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font color=&quot;#004c99&quot;&gt;Main menu&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font color=&quot;#004c99&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;[1] RCU&lt;/div&gt;&lt;div&gt;[2] SIU&lt;/div&gt;&lt;div&gt;[3] RBD&lt;/div&gt;&lt;div&gt;[4] Comms&lt;/div&gt;&lt;div&gt;[5] Control&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;[6] Profiles&lt;/span&gt;&lt;/div&gt;&lt;div&gt;[7] Setpoints&lt;/div&gt;&lt;div&gt;[8] Drive&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;[7] BIT&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=default;fontFamily=Lucida Console;fontSize=14;" vertex="1" parent="E-7C91kOw7d5Ax8kFymq-2">
+          <mxGeometry x="6" y="-93" width="130" height="230" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
