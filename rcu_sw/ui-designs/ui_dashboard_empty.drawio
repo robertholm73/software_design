@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.2">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.4">
   <diagram name="Page-1" id="gYPdV5KYoYjTxZCbX4Au">
-    <mxGraphModel dx="3088" dy="1907" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3623" dy="2037" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -43,9 +43,6 @@
         <mxCell id="MxH4DdZBS--YE_dJc5Tn-1" value="&lt;span style=&quot;text-wrap-mode: nowrap; font-family: &amp;quot;Lucida Console&amp;quot;; font-size: 14px;&quot;&gt;L: Legend&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-family: &amp;quot;Lucida Console&amp;quot;; font-size: 14px; text-wrap-mode: nowrap;&quot;&gt;V: Versions&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-family: &amp;quot;Lucida Console&amp;quot;; font-size: 14px; text-wrap-mode: nowrap;&quot;&gt;M: Menus&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;font face=&quot;Lucida Console&quot;&gt;&lt;span style=&quot;font-size: 14px; text-wrap-mode: nowrap;&quot;&gt;G: Log in/out&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Lucida Console&quot;&gt;&lt;span style=&quot;font-size: 14px; text-wrap-mode: nowrap;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-180" y="110" width="150" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="J8lqQWTrD4rZ8qH2y88z-3" value="&#xa;" style="swimlane;startSize=0;fontFamily=Lucida Console;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="1014" y="45.5" width="116" height="39" as="geometry" />
-        </mxCell>
         <mxCell id="Uf-69zOGK23iq94hIyBW-4" value="" style="swimlane;startSize=0;fontFamily=Lucida Console;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="30" y="9" width="1100" height="711" as="geometry" />
         </mxCell>
@@ -60,30 +57,6 @@
         </mxCell>
         <mxCell id="Uf-69zOGK23iq94hIyBW-15" value="&lt;font&gt;01234567890123456789012345678901234567890123456&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=default;fontFamily=Lucida Console;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="629" y="63" width="420" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Uf-69zOGK23iq94hIyBW-16" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="24" y="63" width="116" height="39" as="geometry" />
-        </mxCell>
-        <mxCell id="Uf-69zOGK23iq94hIyBW-17" value="&lt;b style=&quot;color: rgb(255, 51, 255);&quot;&gt;&lt;font&gt;[L]egend&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=default;fontFamily=Lucida Console;fontSize=14;" parent="Uf-69zOGK23iq94hIyBW-16" vertex="1">
-          <mxGeometry x="6" y="7" width="90" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Uf-69zOGK23iq94hIyBW-18" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="517" y="63" width="116" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Uf-69zOGK23iq94hIyBW-19" value="&lt;b style=&quot;color: rgb(255, 51, 255);&quot;&gt;&lt;font&gt;[V]ersions&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=default;fontFamily=Lucida Console;fontSize=14;" parent="Uf-69zOGK23iq94hIyBW-18" vertex="1">
-          <mxGeometry x="6" y="7" width="110" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Uf-69zOGK23iq94hIyBW-20" value="&#xa;" style="swimlane;startSize=0;fontFamily=Lucida Console;fontSize=14;" parent="Uf-69zOGK23iq94hIyBW-18" vertex="1">
-          <mxGeometry y="-1.5" width="100" height="41.5" as="geometry" />
-        </mxCell>
-        <mxCell id="Uf-69zOGK23iq94hIyBW-21" value="&lt;b style=&quot;color: rgb(255, 51, 255);&quot;&gt;&lt;font&gt;[M]enus&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=default;fontFamily=Lucida Console;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="1046" y="65.5" width="80" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Uf-69zOGK23iq94hIyBW-22" value="&#xa;" style="swimlane;startSize=0;fontFamily=Lucida Console;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="20" y="63" width="90" height="36" as="geometry" />
-        </mxCell>
-        <mxCell id="Uf-69zOGK23iq94hIyBW-23" value="&#xa;" style="swimlane;startSize=0;fontFamily=Lucida Console;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="1040" y="63" width="90" height="36" as="geometry" />
         </mxCell>
         <mxCell id="8GqjcNtok8T0HypdfC6I-1" value="&lt;font color=&quot;#3399ff&quot;&gt;&lt;b&gt;M-TEK&lt;/b&gt;&amp;nbsp; &amp;nbsp;&lt;/font&gt;&lt;font color=&quot;#ff33ff&quot;&gt;&lt;b&gt;Radar Rotator Sub-System&amp;nbsp; &amp;nbsp;&lt;/b&gt;&lt;/font&gt;2024-12-01&amp;nbsp; &amp;nbsp;00:00:00&amp;nbsp; &amp;nbsp;&lt;font color=&quot;#00cc00&quot;&gt;On&amp;nbsp;&amp;nbsp;&lt;/font&gt;⚪&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;↺&amp;nbsp;&lt;/span&gt;ω&amp;nbsp; |&lt;font color=&quot;#495411&quot;&gt;30.0&lt;/font&gt;|&lt;font color=&quot;#00cc00&quot;&gt;29.8&lt;/font&gt;| (rpm)&amp;nbsp;&amp;nbsp;&lt;span style=&quot;font-family: Helvetica; text-wrap-mode: wrap;&quot;&gt;⇅Comms&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: rgb(0, 204, 0);&quot;&gt;✔&amp;nbsp; &amp;nbsp;&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;⚠&lt;/span&gt;&amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;font color=&quot;#00cc00&quot;&gt;☑&lt;/font&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;UART" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=default;labelBackgroundColor=none;fontFamily=Lucida Console;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="24" width="1110" height="30" as="geometry" />
